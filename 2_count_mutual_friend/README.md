@@ -1,6 +1,7 @@
 # LeedCode
 
 # Cho mảng:
+```
 const friends = [
   ['Jason', 'Mary'],
   ['Mike', 'Mary'],
@@ -9,11 +10,13 @@ const friends = [
   ['John', 'Mary'],
   ['Susan', 'Mary']
 ];
+```
 
 # Yêu Cầu
 Tìm bạn chung của từng cặp friend
 
 # Output
+```
 [ 
     [ 'Jason', 'Mary', 2 ], 
     [ 'Mike', 'Mary', 1 ], 
@@ -22,3 +25,4 @@ Tìm bạn chung của từng cặp friend
     [ 'John', 'Mary', 0 ], 
     [ 'Susan', 'Mary', 1 ] 
 ]
+```
