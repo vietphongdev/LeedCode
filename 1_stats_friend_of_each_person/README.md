@@ -1,6 +1,7 @@
 # LeedCode
 
 # Cho mảng:
+```
 const friends = [
   ['Jason', 'Mary'],
   ['Mike', 'Mary'],
@@ -9,7 +10,7 @@ const friends = [
   ['John', 'Mary'],
   ['Susan', 'Mary']
 ];
-
+```
 # Yêu Cầu
 Thống kê danh sách bạn của mỗi người
 
