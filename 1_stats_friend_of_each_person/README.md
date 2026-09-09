@@ -15,6 +15,7 @@ const friends = [
 Thống kê danh sách bạn của mỗi người
 
 # Output
+```
 {
   Jason: [ 'Mary', 'Mike', 'Susan' ],
   Mary: [ 'Jason', 'Mike', 'John', 'Susan' ],
@@ -22,3 +23,4 @@ Thống kê danh sách bạn của mỗi người
   Susan: [ 'Jason', 'Mary' ],
   John: [ 'Mary' ]
 }
+```
